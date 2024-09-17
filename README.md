@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1 align="center">𝐃𝐞𝐱𝟐𝐂</h1>
+  <h1 align="center">𝐃𝐞𝐱𝟐𝐂(lry127.github.io)</h1>
 
 
 
